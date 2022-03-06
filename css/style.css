@@ -9,20 +9,20 @@
     position: relative;
 }
 
-#navbar-container ul{
+#navbar-container li{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     position: relative;
-    left: 50%;
+    right: 50%;
     float: left;
+    display: block;
 }
 
-#navbar-container ul li {
+#navbar-container ul  {
+    margin: 0;
+    padding: 0;
     float: left; 
     position: relative; 
-    right: 50%;
-    display: block;
+    left: 50%;
 }
 
 #nav-container ul li a {
