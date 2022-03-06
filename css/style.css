@@ -1,6 +1,6 @@
 #main-navbar{
     background-color: blue; 
-    overflow:hidden;
+    overflow: hidden;
 }
 
 #navbar-container {
@@ -39,7 +39,6 @@
 #onpage {
     text-decoration: underline overline;
 }
-
 
 #sidebar-container {
     position: fixed; 
