@@ -3,7 +3,7 @@
     overflow:hidden;
 }
 
-#navbar-container {
+#navbar-container{
     float: left;
     width: 100%;
     position: relative;
@@ -41,7 +41,7 @@
 }
 
 
-#sidebar-container {
+#sidebar-container{
     position: fixed; 
     right: 0%; 
     background-color:red;
