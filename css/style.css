@@ -1,6 +1,6 @@
 #main-navbar{
     background-color: blue; 
-    overflow: hidden;
+    overflow:hidden;
 }
 
 #navbar-container {
@@ -9,23 +9,23 @@
     position: relative;
 }
 
-#navbar-container li{
+#navbar-container ul{
     list-style-type: none;
+    margin: 0;
+    padding: 0;
     position: relative;
-    right: 50%;
+    left: 50%;
     float: left;
+}
+
+#navbar-container ul li {
+    float: left; 
+    position: relative; 
+    right: 50%;
     display: block;
 }
 
-#navbar-container ul  {
-    margin: 0;
-    padding: 0;
-    float: left; 
-    position: relative; 
-    left: 50%;
-}
-
-#nav-container li a {
+#nav-container ul li a {
     display: block; 
     padding: 10px 20px;
     color: #fff; 
@@ -39,6 +39,7 @@
 #onpage {
     text-decoration: underline overline;
 }
+
 
 #sidebar-container {
     position: fixed; 
