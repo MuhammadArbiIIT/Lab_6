@@ -25,18 +25,18 @@
     display: block;
 }
 
-#nav-container ul li a{
+#navbar-container ul li a:hover{
+    background-color: #000;
+}
+
+#navbar-container ul li a{
     display: block; 
     padding: 10px 20px;
     color: #fff; 
     text-decoration: none;
 }
 
-#navbar-container ul li a:hover{
-    background-color: #000;
-}
-
-#onpage {
+#onpage{
     text-decoration: underline overline;
 }
 
