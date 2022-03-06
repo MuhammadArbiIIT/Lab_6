@@ -18,14 +18,14 @@
     float: left;
 }
 
-#navbar-container ul li {
+#navbar-container ul li{
     float: left; 
     position: relative; 
     right: 50%;
     display: block;
 }
 
-#nav-container ul li a {
+#nav-container ul li a{
     display: block; 
     padding: 10px 20px;
     color: #fff; 
