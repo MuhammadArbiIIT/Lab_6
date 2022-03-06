@@ -31,3 +31,21 @@
     color: #fff; 
     text-decoration: none;
 }
+
+#navbar-container ul li a:hover{
+    background-color: #000;
+}
+
+#onpage {
+    text-decoration: underline overline;
+}
+
+
+#sidebar-container {
+    position: fixed; 
+    right: 0%; 
+    background-color:red;
+    height: 100%;
+    width: 20%; 
+
+}
